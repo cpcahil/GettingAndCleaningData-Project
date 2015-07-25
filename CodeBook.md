@@ -17,6 +17,7 @@ The following variables are present in the tidy dataset:
 
 * Subject - subject identifier ranging from 1 to 30
 * Activity - activity identification string.  6 possible values:
+
 ** WALKING
 ** WALKING_UPSTAIRS
 ** WALKING_DOWNSTAIRS
