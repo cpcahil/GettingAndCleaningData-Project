@@ -24,6 +24,7 @@ The following variables are present in the tidy dataset:
 ** STANDING
 ** LAYING
 * Average accelerometer mean and standard deviation measurements including:
+
 > tBodyAcc-mean()-X, tBodyAcc-mean()-Y, tBodyAcc-mean()-Z, tBodyAcc-std()-X, tBodyAcc-std()-Y,
 > tBodyAcc-std()-Z, tGravityAcc-mean()-X, tGravityAcc-mean()-Y,
 > tGravityAcc-mean()-Z, tGravityAcc-std()-X, tGravityAcc-std()-Y, tGravityAcc-std()-Z,
