@@ -18,12 +18,13 @@ The following variables are present in the tidy dataset:
 * Subject - subject identifier ranging from 1 to 30
 * Activity - activity identification string.  6 possible values:
 
-** WALKING
-** WALKING_UPSTAIRS
-** WALKING_DOWNSTAIRS
-** SITTING
-** STANDING
-** LAYING
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
+
 * Average accelerometer mean and standard deviation measurements including:
 
 > tBodyAcc-mean()-X, tBodyAcc-mean()-Y, tBodyAcc-mean()-Z, tBodyAcc-std()-X, tBodyAcc-std()-Y,
